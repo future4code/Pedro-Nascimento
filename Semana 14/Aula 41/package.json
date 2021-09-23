@@ -1,0 +1,11 @@
+{
+  "name": "aula-41",
+  "version": "1.0.0",
+  "description": "Colocar Nome e Idade",
+  "main": "exer2.js",
+  "scripts": {
+    "start": "node ./exer2.js"
+  },
+  "author": "Pedro Fernandes",
+  "license": "ISC"
+}
